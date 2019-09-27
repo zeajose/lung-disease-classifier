@@ -1,5 +1,6 @@
 from flask import Flask
 
+
 app = Flask(__name__)
 
 # Setup the app with the config.py file
